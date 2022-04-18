@@ -24,7 +24,7 @@ Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{We
             Back-end is good too, so i'm trying to learn <a href="go.dev">Golang</a>
         </li>
         <li>
-            I love playing minecraft, so I create assorted plugins for my server using <a href="kotlinlang.org">Kotlin</a>.
+            I love play minecraft, so I create assorted plugins for my server using <a href="kotlinlang.org">Kotlin</a>.
         </li>
     </ul>
 </div>
