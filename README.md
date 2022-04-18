@@ -24,7 +24,7 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Mostly Clear, with winds 
             Back-end is good too, so i'm trying to learn <a href="go.dev">Golang</a>
         </li>
         <li>
-            I love playing minecraft, so I create assorted plugins for my server using <a href="kotlinlang.org">Kotlin</a>.
+            I love play minecraft, so I create assorted plugins for my server using <a href="kotlinlang.org">Kotlin</a>.
         </li>
     </ul>
 </div>
@@ -50,7 +50,7 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Mostly Clear, with winds 
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 04/18/2022 - 08:31PM GMT-3
+    Last Update: 04/18/2022 - 08:36PM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
