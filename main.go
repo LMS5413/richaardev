@@ -47,7 +47,6 @@ func readFileAndGenerateReadme(data *Data) {
 	tmpl.FRender(&buf, *data)
 	err := os.WriteFile("README.md", buf.Bytes(), 0644)
 	check(err)
-	fmt.Println(data)
 }
 
 func setWeather(data *Data) {
@@ -82,7 +81,7 @@ func setWeather(data *Data) {
 }
 
 func setGreeting(data *Data) {
-	hour := time.Now().Hour()
+	hour := ltime.Hour()
 	greetings := []string{"☀️ Good morning!", "🌇 Good afternoon!", "🌃 Good evening!"}
 	greeting := greetings[0]
 	if hour > 12 {
@@ -90,7 +89,6 @@ func setGreeting(data *Data) {
 	} else if hour > 18 {
 		greeting = greetings[2]
 	}
-
 	data.Greeting = greeting
 }
 
