@@ -32,16 +32,22 @@ Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{We
     <h4><code>Find me</code></h4>
     <ul>
         <li>
-            <img alt="Instagram" align="center" href="https://instagram.com/richaardev" width="30"
-                 src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
+            <a href="https://instagram.com/richaardev">
+                <img alt="Instagram" align="center" width="30"
+                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
+            </a>
         </li>
         <li>
-            <img alt="Linkedin" align="center" href="https://instagram.com/richaardev" width="30"
-                 src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
+            <a href="https://instagram.com/richaardev">
+                <img alt="Linkedin" align="center" width="30"
+                    src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
+            </a>
         </li>
-               <li>
-            <img alt="Twitter" align="center" href="https://twitter.com/richaardev" width="30"
-                 src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
+        <li>
+            <a href="https://twitter.com/richaardev">
+                <img alt="Twitter" align="center" width="30"
+                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
+            </a>
         </li>
     </ul>
 </div>
