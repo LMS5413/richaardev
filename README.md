@@ -3,12 +3,13 @@
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 22°C, Mostly Clear, with winds 4 km/h South.
+Currently on <strong>Rio de Janeiro</strong> is 20°C, Mostly Clear, with winds 4 km/h Northwest.
 
 <h3><code>richaardev</code></h3>
 
 -   👨‍💻 16 years old developer!
--   📚 Always trying to improve knowledge
+-   📚 Always trying to improve knowledge.
+-   ✈ Aviation lover!
 
 <div>
     <h4><code>Technologies</code></h4>
@@ -56,7 +57,7 @@ Currently on <strong>Rio de Janeiro</strong> is 22°C, Mostly Clear, with winds 
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 04/18/2022 - 09:30PM GMT-3
+    Last Update: 04/18/2022 - 10:56PM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
