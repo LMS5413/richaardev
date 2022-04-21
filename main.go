@@ -84,10 +84,10 @@ func setGreeting(data *Data) {
 	hour := ltime.Hour()
 	greetings := []string{"☀️ Good morning!", "🌇 Good afternoon!", "🌃 Good evening!"}
 	greeting := greetings[0]
-	if hour > 12 {
-		greeting = greetings[1]
-	} else if hour > 18 {
+	if hour > 18 {
 		greeting = greetings[2]
+	} else if hour > 12 {
+		greeting = greetings[1]
 	}
 	data.Greeting = greeting
 }
