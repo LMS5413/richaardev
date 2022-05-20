@@ -7,7 +7,7 @@ Currently on <strong>Rio de Janeiro</strong> is 20°C, Partly Cloudy, with winds
 
 <h3><code>richaardev</code></h3>
 
--   👨‍💻 16 years old developer!
+-   👨‍💻 17 years old developer!
 -   📚 Always trying to improve knowledge.
 -   ✈ Aviation lover!
 
@@ -57,7 +57,7 @@ Currently on <strong>Rio de Janeiro</strong> is 20°C, Partly Cloudy, with winds
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 05/19/2022 - 11:45PM GMT-3
+    Last Update: 05/19/2022 - 11:48PM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
