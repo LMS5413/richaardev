@@ -1,4 +1,4 @@
-<h2>🌃 Good evening! 🇧🇷</h2>
+<h2>☀️ Good morning! 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
@@ -57,7 +57,7 @@ Currently on <strong>Rio de Janeiro</strong> is 18°C, Clear, with winds 8 km/h 
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 05/25/2022 - 11:56PM GMT-3
+    Last Update: 05/26/2022 - 12:45AM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
