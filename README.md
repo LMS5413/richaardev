@@ -3,7 +3,7 @@
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 19°C, Clear, with winds 13 km/h North.
+Currently on <strong>Rio de Janeiro</strong> is 20°C, Sunny, with winds 18 km/h Northeast.
 
 <h3><code>richaardev</code></h3>
 
@@ -57,7 +57,7 @@ Currently on <strong>Rio de Janeiro</strong> is 19°C, Clear, with winds 13 km/h
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 06/07/2022 - 07:11AM GMT-3
+    Last Update: 06/07/2022 - 08:06AM GMT-3
 </div>
 
 ![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
