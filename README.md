@@ -1,15 +1,15 @@
-<h2>🌇 Good afternoon! 🇧🇷</h2>
+<h2>{{Greeting}} 🇧🇷</h2>
 
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaardev&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 15 km/h South.
+Currently on <strong>Rio de Janeiro</strong> is {{Weather.Temperature}}°C, {{Weather.SkyText}}, with winds {{Weather.WindDisplay}}.
 
 <h3><code>richaardev</code></h3>
 
--   👨‍💻 17 years old developer!
--   📚 Always trying to improve knowledge.
--   ✈ Aviation lover!
+-   :man_technologist: 17 years old developer!
+-   :books: Always trying to improve knowledge.
+-   :airplane: Aviation lover!
 
 <div>
     <h4><code>Technologies</code></h4>
@@ -31,35 +31,25 @@ Currently on <strong>Rio de Janeiro</strong> is 21°C, Sunny, with winds 15 km/h
 </div>
 <div>
     <h4><code>Find me</code></h4>
-    <ul>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Instagram" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://instagram.com/richaardev">
-                <img alt="Linkedin" align="center" width="30"
-                    src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
-            </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/richaardev">
-                <img alt="Twitter" align="center" width="30"
-                    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
-            </a>
-        </li>
-    </ul>
+     <a href="https://instagram.com/richaardev">
+      <img alt="Instagram" align="center" width="30"
+          src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
+     </a>
+     <a href="https://instagram.com/richaardev">
+      <img alt="Linkedin" align="center" width="30"
+          src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg">
+     </a>
+     <a href="https://twitter.com/richaardev">
+      <img alt="Twitter" align="center" width="30"
+          src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">
+     </a>
 </div>
 <br>
 <hr>
 <div align="center">
     This README file is generated <strong>every 1 hour</strong>
     <br>
-    Last Update: 06/13/2022 - 03:08PM GMT-3
+    Last Update: {{RefreshDate}}
 </div>
 
-![Test](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
-
-<!-- Organization is important!! -->
+![Wave](https://cdn.discordapp.com/attachments/965376991450767400/965418648464408586/layered-waves-haikei_1.svg)
